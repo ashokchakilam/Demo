@@ -1,0 +1,15 @@
+ls-ltr
+ls-l
+mk - make directory
+rm - remove directory
+
+git clone git@github.com:ashokchakilam/Demo.git
+cd documents/Gitsproject1
+rm - R Demo
+cat id_rsa.pub
+cd.ssh
+ls-la
+ssh-keygen
+git cherry-pick -m
+
+
